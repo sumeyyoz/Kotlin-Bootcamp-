@@ -1,0 +1,23 @@
+<resources>
+        <string name="appName">lavaCrust</string>
+        <string name="pizzaBaslik">Margherita Pizza</string>
+        <string name="ilaveDetay">with Tomato</string>
+        <string name="kaloris">Calories</string>
+        <string name="kalori">275 cal</string>
+        <string name="porsiyon">Diameter / Portion</string>
+        <string name="porsiyons">10 / 4 Slices</string>
+        <string name="size">Size</string>
+        <string name="small">Small</string>
+        <string name="medium">Medium</string>
+        <string name="large">Large</string>
+        <string name="topping">Topping</string>
+        <string name="cheese">Cheese</string>
+        <string name="onion">Onion</string>
+        <string name="mushroom">Mushroom</string>
+        <string name="aciklama">Classic Neapolitan pizza with San Marzano tomatoes, mozzarella, basil, and olive oil.</string>
+        <string name="butonYazi">Add to Cart</string>
+        <string name="fiyat">8.50</string>
+        <string name="fiyatBirim">$</string>
+
+
+</resources>

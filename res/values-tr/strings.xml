@@ -1,0 +1,22 @@
+ <resources>
+    <string name="appName">lavaCrust</string>
+    <string name="pizzaBaslik">Margerita Pizza</string>
+    <string name="ilaveDetay">Domatesli</string>
+    <string name="kaloris">Kalori</string>
+    <string name="kalori">275 Kalori</string>
+    <string name="porsiyon">Adet / Porsiyon</string>
+    <string name="porsiyons">10 cm / 4 Dilim</string>
+    <string name="size">Boyut</string>
+    <string name="small">Küçük</string>
+    <string name="medium">Orta</string>
+    <string name="large">Büyüke</string>
+    <string name="topping">Ek Malzeme</string>
+    <string name="cheese">Peynir</string>
+    <string name="onion">Soğan</string>
+    <string name="mushroom">Mantar</string>
+    <string name="aciklama">San Marzano domatesleri, mozzarella peyniri, fesleğen ve zeytinyağı ile hazırlanan klasik Napoli pizzası.</string>
+    <string name="butonYazi">Sepete Ekle</string>
+    <string name="fiyat">8.50</string>
+    <string name="fiyatBirim">TL</string>
+
+    </resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#F5F5F5</color>
+    <color name="arkaPlan">#1A1A1A</color>
+    <color name="seciliChip">#E2B007</color>
+    <color name="buton">#2D2D30</color>
+    <color name="baslik">#E0E0E0</color>
+    <color name="yaziVeKalori">#999999</color>
+    <color name="acikSari">#E2B007</color>
+    <color name="arkaPlan1">#3C2F1C</color>
+</resources>
