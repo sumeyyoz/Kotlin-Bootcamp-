@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="toolbar">#D90416</color>
+    <color name="kahverengi1">#59231E</color>
+    <color name="kahverengi">#A65341</color>
+    <color name="acikKirmizi">#D91A3D</color>
+    <color name="pembe">#F28599</color>
+    <color name="acikKahverengi">#BF7C41</color>
+</resources>

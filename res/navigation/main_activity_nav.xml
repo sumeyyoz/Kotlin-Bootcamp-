@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_activity_nav"
+    app:startDestination="@id/anasayfaFragment">
+
+    <fragment
+        android:id="@+id/anasayfaFragment"
+        android:name="com.example.uygulama.AnasayfaFragment"
+        android:label="fragment_anasayfa"
+        tools:layout="@layout/fragment_anasayfa" >
+        <action
+            android:id="@+id/malzemeGecis"
+            app:destination="@id/malzemelerFragment" />
+        <action
+            android:id="@+id/alternatifGecis"
+            app:destination="@id/alternatifFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/alternatifFragment"
+        android:name="com.example.uygulama.AlternatifFragment"
+        android:label="fragment_alternatif"
+        tools:layout="@layout/fragment_alternatif" />
+    <fragment
+        android:id="@+id/geriDonusFragment"
+        android:name="com.example.uygulama.GeriDonusFragment"
+        android:label="fragment_geri_donus"
+        tools:layout="@layout/fragment_geri_donus" />
+    <fragment
+        android:id="@+id/hazirlikFragment"
+        android:name="com.example.uygulama.HazirlikFragment"
+        android:label="fragment_hazirlik"
+        tools:layout="@layout/fragment_hazirlik" >
+        <action
+            android:id="@+id/geriDonusGecis"
+            app:destination="@id/geriDonusFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/malzemelerFragment"
+        android:name="com.example.uygulama.MalzemelerFragment"
+        android:label="fragment_malzemeler"
+        tools:layout="@layout/fragment_malzemeler" >
+        <action
+            android:id="@+id/hazirlikGecis"
+            app:destination="@id/hazirlikFragment" />
+    </fragment>
+</navigation>
